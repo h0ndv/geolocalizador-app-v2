@@ -1,7 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
     <style name="Base.Theme.Geolocalizadorappv2" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#1B5E20</item>
+        <item name="colorPrimaryVariant">#145214</item>
+        <item name="colorOnPrimary">#E8F5E9</item>
+
+        <item name="colorSecondary">#81C784</item>
+        <item name="colorSecondaryVariant">#66BB6A</item>
+        <item name="colorOnSecondary">#1B5E20</item>
+
+        <item name="android:colorBackground">#121212</item>
     </style>
+
+    <style name="Theme.Geolocalizadorappv2" parent="Base.Theme.Geolocalizadorappv2" />
 </resources>

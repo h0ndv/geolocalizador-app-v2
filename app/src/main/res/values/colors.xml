@@ -2,4 +2,26 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Verdes claro para fondo y secundarios -->
+    <color name="green_light_background">#E8F5E9</color>
+    <color name="green_light_secondary">#A5D6A7</color>
+    <color name="green_light_secondary_variant">#81C784</color>
+
+    <!-- Verdes oscuros para primarios y textos -->
+    <color name="green_dark_primary">#388E3C</color>
+    <color name="green_dark_primary_variant">#2E7D32</color>
+    <color name="green_dark_text_on_primary">#FFFFFF</color>
+
+    <!-- Verdes para modo oscuro -->
+    <color name="green_dark_primary_night">#1B5E20</color>
+    <color name="green_dark_primary_variant_night">#145214</color>
+    <color name="green_dark_text_on_primary_night">#E8F5E9</color>
+
+    <color name="green_dark_secondary_night">#81C784</color>
+    <color name="green_dark_secondary_variant_night">#66BB6A</color>
+    <color name="green_dark_text_on_secondary_night">#1B5E20</color>
+
+    <!-- Fondo modo oscuro -->
+    <color name="background_night">#121212</color>
 </resources>
